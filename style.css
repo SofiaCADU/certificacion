@@ -56,8 +56,20 @@
 .lst{
     list-style-type: none
 }
+
+.b-b{
+    border-bottom: 1px solid #5c5c5c;
+}
+
+.a-c{
+    align-items: center;
+}
 /* nav */
 /* main */
+.tamaño{
+    width: 1200px;
+}
+
 .t-c{
     text-align: center;
     padding: 20px;
@@ -66,3 +78,8 @@
 .tm-i{
     width: 300px;
 }
+
+.p{
+    padding: 10px;
+}
+/* main */
