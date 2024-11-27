@@ -96,6 +96,10 @@ button:hover{
     padding: 20px;
 }
 
+.i-c{
+    text-align: center;
+}
+
 .tm-i{
     width: 300px;
 }
