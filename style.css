@@ -31,6 +31,10 @@
     background-color: #dddddd;
 }
 
+.gris{
+    background-color: #eeeeee;
+}
+
 .azul{
     background-color: #095394;
     color: white;
@@ -39,5 +43,17 @@
 /* nav */
 .s-b{
     justify-content: space-between;
+}
+
+.s-e{
+    justify-content: space-evenly;
+}
+
+.s-a{
+    justify-content: space-around;
+}
+
+.lst{
+    list-style-type: none
 }
 /* nav */
