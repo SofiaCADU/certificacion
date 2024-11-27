@@ -61,6 +61,11 @@ button:hover{
     list-style-type: none;
 }
 
+.t-d{
+    text-decoration: none;
+    color: black;
+}
+
 .b-b{
     border-bottom: 1px solid #5c5c5c;
 }
