@@ -22,6 +22,19 @@
 .col-3{
     flex: 3;
 }
+
+.celeste{
+    background-color: #9fc5f8;
+}
+
+.plomo{
+    background-color: #dddddd;
+}
+
+.azul{
+    background-color: #095394;
+    color: white;
+}
 /* General */
 /* nav */
 .s-b{
