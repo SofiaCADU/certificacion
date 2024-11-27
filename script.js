@@ -4,14 +4,20 @@ function iSesión(){
 }
 
 //segunda función
+const but = document.getElementById("rentar")
 document.getElementById("rentar").onclick = function() {
     this.textContent = "No disponible"
+    but.style.backgroundColor = "#990000";
 }
+const buton = document.getElementById("renta")
 document.getElementById("renta").onclick = function() {
     this.textContent = "No disponible"
+    buton.style.backgroundColor = "#990000";
 }
+const button = document.getElementById("rentas")
 document.getElementById("rentas").onclick = function() {
     this.textContent = "No disponible"
+    button.style.backgroundColor = "#990000";
 }
 
 //tercera función
