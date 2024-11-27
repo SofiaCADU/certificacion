@@ -15,3 +15,18 @@ document.getElementById("rentas").onclick = function() {
 }
 
 //tercera función
+document.getElementById("ficcion").onclick = function(){
+    document.getElementById("titulo").textContent = "Ficción"
+}
+document.getElementById("historico").onclick = function(){
+    document.getElementById("titulo").textContent = "Historicos"
+}
+document.getElementById("tecnologia").onclick = function(){
+    document.getElementById("titulo").textContent = "Tecnología"
+}
+document.getElementById("autoayuda").onclick = function(){
+    document.getElementById("titulo").textContent = "Autoayuda"
+}
+document.getElementById("poesia").onclick = function(){
+    document.getElementById("titulo").textContent = "Poesía"
+}
