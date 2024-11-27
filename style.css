@@ -39,6 +39,10 @@
     background-color: #095394;
     color: white;
 }
+
+button:hover{
+    cursor: pointer;
+}
 /* General */
 /* nav */
 .s-b{
@@ -66,7 +70,11 @@
 }
 
 .m{
-    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tñ-l{
+    font-size: xx-large;
 }
 /* nav */
 /* main */
