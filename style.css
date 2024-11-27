@@ -74,6 +74,10 @@ button:hover{
     align-items: center;
 }
 
+.t-s{
+    text-align: right;
+}
+
 .m{
     margin-right: 10px;
 }
