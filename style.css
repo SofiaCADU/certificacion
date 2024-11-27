@@ -57,3 +57,12 @@
     list-style-type: none
 }
 /* nav */
+/* main */
+.t-c{
+    text-align: center;
+    padding: 20px;
+}
+
+.tm-i{
+    width: 300px;
+}
